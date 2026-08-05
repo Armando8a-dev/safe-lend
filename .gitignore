@@ -1,0 +1,6 @@
+out/
+cache/
+.env
+broadcast/
+frontend/node_modules
+frontend/.next
