@@ -11,7 +11,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 **Live demo:** _deploy to Netlify pending_
+🔗 **Live demo:** https://safe-lend-b17.netlify.app
 📜 **SafeLend (Sepolia):** [0xE15E8D78d4a4576de68d483Bd5275E7C6c17D901](https://sepolia.etherscan.io/address/0xE15E8D78d4a4576de68d483Bd5275E7C6c17D901)
 🪙 **WETH / USDC:** [0x0F94…80A9](https://sepolia.etherscan.io/address/0x0F94b75C2666B178DAD5443cc8d03cdc2eBC80A9) · [0x9CEe…ADC1](https://sepolia.etherscan.io/address/0x9CEef0371773F2140661f8bBA34522685733ADC1)
 
